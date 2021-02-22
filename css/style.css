@@ -1,6 +1,5 @@
 body{
   margin: auto;
-  text-align: center;
 }
 
 .logo{
@@ -64,22 +63,21 @@ width: 200px;
 height: 200px;
 text-align: left;
 color: white;
-margin-left: initial;
+margin-left: 15%;
 background-image: url('../img/monitor.jpg');
 }
 
 .consigli{
-  margin-top: 5px;
-  margin-left: 5px;
+  margin-left: 15%;
   color: gray;
 }
 
 .ultimo{
   width: 200px;
-height: 200px;
-text-align: left;
-color: white;
-margin-left: initial;
-margin-top: 5px;
-background-image: url('../img/graph.jpg');
+  height: 200px;
+  text-align: left;
+  color: white;
+  margin-left: 15%;
+  margin-top: 5px;
+  background-image: url('../img/graph.jpg');
 }
