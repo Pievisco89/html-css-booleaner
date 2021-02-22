@@ -7,7 +7,7 @@ body{
   height: 50px;
   margin: auto;
   background-color: rgb(3,187,208); 
-  background-image: url('img/logo.svg');
-
+  background-image: url('img/pattern.png');
+  background-size: cover;
 }
 
