@@ -1,5 +1,6 @@
 body{
   margin: auto;
+  text-align: center;
 }
 
 .logo{
@@ -8,5 +9,31 @@ body{
   margin: auto;
   background-color: rgb(3,187,208); 
   background-image: url('../img/pattern.png');
-  background-size: cover;
+  background-size: contain;
+}
+
+main{
+  width: 70%;
+  margin: auto;
+  text-align: left;
+}
+
+.intestazione > p{
+  margin: 0;
+}
+.titolo{
+    font-size: 10px;
+  }
+
+h1{
+  margin: 0;
+}
+
+span{
+  color: blue;
+}
+
+p{
+  font-size: 10px;
+  margin: 0;
 }
