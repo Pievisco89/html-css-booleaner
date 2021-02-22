@@ -1,0 +1,13 @@
+body{
+  margin: auto;
+}
+
+.logo{
+  width: 75%;
+  height: 50px;
+  margin: auto;
+  background-color: rgb(3,187,208); 
+  background-image: url('img/logo.svg');
+
+}
+
