@@ -29,7 +29,7 @@ h1{
   margin: 0;
 }
 
-span{
+#Boolean{
   color: blue;
 }
 
@@ -43,7 +43,7 @@ span{
 }
 
 table{
-  border-style: none;
+  border: none;
 }
 
 thead{
@@ -53,4 +53,12 @@ thead{
 
 .special{
   background-color: aquamarine;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.consigli{
+  color: gray;
 }
