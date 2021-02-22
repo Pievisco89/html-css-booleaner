@@ -59,6 +59,27 @@ thead{
   background-color: yellow;
 }
 
+.finale {
+width: 200px;
+height: 200px;
+text-align: left;
+color: white;
+margin-left: initial;
+background-image: url('../img/monitor.jpg');
+}
+
 .consigli{
+  margin-top: 5px;
+  margin-left: 5px;
   color: gray;
+}
+
+.ultimo{
+  width: 200px;
+height: 200px;
+text-align: left;
+color: white;
+margin-left: initial;
+margin-top: 5px;
+background-image: url('../img/graph.jpg');
 }
